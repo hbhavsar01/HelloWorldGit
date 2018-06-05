@@ -1,1 +1,6 @@
 C:\Users\hiren.bhavsar\Desktop\MDFG_Work\VS2015\HelloWorldGit\HelloWorldGit\bin\Debug\HelloWorldGit.exe.config
+C:\Users\hiren.bhavsar\Desktop\MDFG_Work\VS2015\HelloWorldGit\HelloWorldGit\bin\Debug\HelloWorldGit.exe
+C:\Users\hiren.bhavsar\Desktop\MDFG_Work\VS2015\HelloWorldGit\HelloWorldGit\bin\Debug\HelloWorldGit.pdb
+C:\Users\hiren.bhavsar\Desktop\MDFG_Work\VS2015\HelloWorldGit\HelloWorldGit\obj\Debug\HelloWorldGit.csprojResolveAssemblyReference.cache
+C:\Users\hiren.bhavsar\Desktop\MDFG_Work\VS2015\HelloWorldGit\HelloWorldGit\obj\Debug\HelloWorldGit.exe
+C:\Users\hiren.bhavsar\Desktop\MDFG_Work\VS2015\HelloWorldGit\HelloWorldGit\obj\Debug\HelloWorldGit.pdb
